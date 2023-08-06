@@ -1,0 +1,14 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/tarunbardawa/flutter
+FLUTTER_APPLICATION_PATH=/Users/tarunbardawa/FlutterApps/Flutter-BuySell(v__2.7)/Mobile Source/Flutter-BuySell
+COCOAPODS_PARALLEL_CODE_SIGN=true
+FLUTTER_TARGET=/Users/tarunbardawa/FlutterApps/Flutter-BuySell(v__2.7)/Mobile Source/Flutter-BuySell/lib/main.dart
+FLUTTER_BUILD_DIR=build
+FLUTTER_BUILD_NAME=2.7.0
+FLUTTER_BUILD_NUMBER=22
+EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386 arm64
+DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/tarunbardawa/FlutterApps/Flutter-BuySell(v__2.7)/Mobile Source/Flutter-BuySell/.dart_tool/package_config.json
